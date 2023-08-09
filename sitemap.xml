@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
-		<loc>http://index.html</loc>
+		<loc>http://radarsoftlab.com/index.html</loc>
 		<lastmod>2023-01-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://page-1.html</loc>
+		<loc>http://radarsoftlab.com/page-1.html</loc>
+		<lastmod>2023-02-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://radarsoftlab.com/---------2.html</loc>
 		<lastmod>2023-01-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://---------2.html</loc>
+		<loc>http://radarsoftlab.com/blog/index.php</loc>
 		<lastmod>2023-01-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://blog/index.php</loc>
+		<loc>http://radarsoftlab.com/---------4.html</loc>
 		<lastmod>2023-01-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://---------4.html</loc>
-		<lastmod>2023-01-25</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>http://---------3.html</loc>
+		<loc>http://radarsoftlab.com/---------3.html</loc>
 		<lastmod>2023-01-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>

@@ -1,5 +1,5 @@
 x5engine.settings.imBlog = {
-	root: 'http://blog/',
+	root: 'http://radarsoftlab.com/blog/',
 	home_posts_number: 10,
 	card_type: 'leftcoverrightcontents',
 	show_card_title: true,
@@ -12,7 +12,7 @@ x5engine.settings.imBlog = {
 	file_prefix: 'x5_',
 	comments: false,
 	comments_source: 'external',
-	comments_code: '<div id="fb-root"></div><div class="fb-comments" data-href="http://127.0.0.1:8080/blog/index.php" data-numposts="5" data-width="100%" data-colorscheme="light"></div><script>$(".fb-comments").attr("data-href", location.href);(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";fjs.parentNode.insertBefore(js, fjs);}(document, \'script\', \'facebook-jssdk\'));</script>',
+	comments_code: '<div id="fb-root"></div><div class="fb-comments" data-href="http://127.0.0.1:8081/blog/index.php" data-numposts="5" data-width="100%" data-colorscheme="light"></div><script>$(".fb-comments").attr("data-href", location.href);(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";fjs.parentNode.insertBefore(js, fjs);}(document, \'script\', \'facebook-jssdk\'));</script>',
 
 highlight_mode: 'none',
 	categories: ['Категория'],
